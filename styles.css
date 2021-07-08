@@ -138,6 +138,7 @@ a {
   grid-gap: 20px;
   text-align: center;
   padding-block: 100px;
+  padding-block-start:80px;
 }
 .newsletter div input {
   border: none;
